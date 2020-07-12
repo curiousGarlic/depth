@@ -8,3 +8,7 @@
 
 Clarity and depth of communication across teams and management;
 Minimizing overhead;
+
+We always need to be smarter than our own tools.
+
+Closure - 
